@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools-extension-pack",
+        "github.vscode-github-actions",
+        "ms-vscode.makefile-tools",
+        "christian-kohler.path-intellisense"
+    ]
+}
