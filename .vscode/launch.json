@@ -6,7 +6,7 @@
 			"type": "cppdbg",
 			"request": "launch",
 			"program": "${workspaceFolder}\\bin\\out.exe",
-			"args": ["-getwordreport", "Roses", "are", "red,", "violets", "are", "blue.", "I", "am", "beautiful", "and", "so", "are", "you"],
+			"args": [],
 			"stopAtEntry": false,
 			"cwd": "${workspaceFolder}",
 			"environment": [],
